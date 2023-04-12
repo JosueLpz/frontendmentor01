@@ -1,0 +1,9 @@
+*{
+  box-sizing: border-box;
+}
+
+.root{
+  min-width: 375px;
+  max-width: 1440px;
+  background-color: hsl(212, 45%, 89%);
+}
