@@ -1,0 +1,12 @@
+*{
+  box-sizing: border-box;
+}
+
+.root{
+  font-family: 'Outfit', sans-serif;
+  min-width: 375px;
+  max-width: 1440px;
+  background-color: hsl(212, 45%, 89%);
+  width: 100%;
+  height: 100%;
+}

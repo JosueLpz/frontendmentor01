@@ -1,0 +1,11 @@
+.qr__img{
+  margin: 10px auto;
+  height: 300px;
+  display: block;
+  width: 290px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
