@@ -1,4 +1,7 @@
 .qr__text{
+  width: 250px;
+  margin: 0 auto;
   text-align: center;
   font-size: 14px;
+  opacity: 0.5;
 }

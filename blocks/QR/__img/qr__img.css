@@ -1,5 +1,5 @@
 .qr__img{
-  margin: 10px auto 0 auto;
+  margin: 10px auto;
   height: 300px;
   display: block;
   width: 290px;
@@ -8,5 +8,4 @@
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
-  border: red solid 1px;
 }

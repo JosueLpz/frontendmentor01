@@ -1,6 +1,9 @@
 /* root */
 @import url(../blocks/root/root.css);
+/* founts */
+@import url(../founts/founts.css);
 /* qr */
+@import url(../blocks/QR/__container/qr__container.css);
 @import url(../blocks/QR/qr.css);
 @import url(../blocks/QR/__img/qr__img.css);
 @import url(../blocks/QR/__title/qr__title.css);
